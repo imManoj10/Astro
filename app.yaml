@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: Astro
+owner: immanoj10
+package: .
